@@ -1,0 +1,9 @@
+name: SetHeart
+version: 1.0
+author: Zyumie
+main: fr.zyumie.setheart.Main
+api-version: 1.20
+commands:
+  heal:
+    description: Commande pour définir un nombre de coeur
+    permission: setheart.heal
